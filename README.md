@@ -21,6 +21,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,java,python,html,css,bootstrap,tailwind,git,github,vscode,postman,redis,linux&theme=light" alt="Tech Stack" />
+  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/logo.png" alt="shadcn/ui" height="32" style="margin-left:6px;" />
 </p>
 
 ---
