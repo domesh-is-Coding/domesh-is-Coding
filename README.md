@@ -21,7 +21,7 @@
 <h2 align="center">⚡ Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,redux,nodejs,express,mongodb,java,python,html,css,bootstrap,tailwind,git,github,vscode,postman,redis,linux&theme=light" alt="Tech Stack" />
-  <img src="https://raw.githubusercontent.com/shadcn/ui/main/apps/www/public/logo.png" alt="shadcn/ui" height="32" style="margin-left:6px;" />
+  <img src="https://avatars.githubusercontent.com/u/139895814?s=48&v=4" alt="shadcn/ui" height="32" style="margin-left:6px;" />
 </p>
 
 ---
@@ -29,11 +29,11 @@
 <!-- GitHub Stats -->
 <h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=domesh-is-Coding&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=33FFB1&title_color=FF61A6&text_color=9DFFEB&bg_color=0E1117" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=domesh-is-Coding&show_icons=true&theme=midnight-purple&hide_border=true&icon_color=33FFB1&title_color=FF61A6&text_color=9DFFEB&bg_color=0E1117" height="170"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=domesh-is-Coding&theme=matrix&hide_border=true&background=0E1117" height="170"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domesh-is-Coding&layout=compact&theme=radical&hide_border=true&bg_color=0E1117&title_color=FF61A6&text_color=9DFFEB" height="130"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=domesh-is-Coding&layout=compact&theme=radical&hide_border=true&bg_color=0E1117&title_color=FF61A6&text_color=9DFFEB" height="170"/>
 </p>
 
 ---
@@ -51,5 +51,5 @@
 
 <!-- Motto/Quote -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Stay+curious,+build+relentlessly."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=300&color=6C63FF&center=true&vCenter=true&multiline=true&width=600&height=50&lines=Stay+curious,+build+relentlessly,+make+an+impact!" alt="Typing SVG" />
 </p>
